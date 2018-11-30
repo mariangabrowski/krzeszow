@@ -1,0 +1,155 @@
+a.menu 
+{ font-family: Arial; 
+  font-size: 14pt; 
+  color: #190C8B; 
+  text-decoration: underline; 
+  cursor: hand; 
+  font-weight: bold; 
+}
+
+a.menu:hover 
+{ font-family: Arial;
+  font-size: 14pt;
+  color: #FF0000;
+  text-decoration: none; 
+  cursor: hand; 
+  font-weight: bold; 
+}
+
+
+
+P.tekst1
+{ text-align: justify;
+  color: black;
+  font: 9pt Arial;
+  text-indent: 5mm;
+}
+
+UL.tekst1
+{ text-align: left;
+  color: black;
+  font: 9pt Arial;
+  text-indent: 10mm;
+}
+
+OL.ol
+{ text-align: left;
+  color: navy;
+  font: 9pt Arial;
+  text-indent: 7mm;
+}
+
+P.tytul
+{ text-align: left;
+  color: navy;
+  font: bold 28pt Verdana, Arial;
+}
+
+
+DIV.marginesy
+{ width: 86%;
+  position: relative; 
+  left: 7%;
+}
+
+P.data
+{ text-align: left;
+  color: navy;
+  font: bold 12pt Verdana, Arial;
+  background: #e4e4e4;
+}
+
+P.txt
+{ text-align: justify;
+  color: black;
+  font: 9pt Verdana, Arial;
+  margin-left: 5%;
+  text-indent: 5mm;
+  background-color: F6F6F6;
+}
+
+P.komentarz
+{ text-align: justify;
+  color: red;
+  font: 8pt Verdana, Arial;
+  margin-left: 5%;
+  text-indent: 5mm;
+  background-color: F6F6F6;
+}
+P.lit
+{ text-align: right;
+  color: navy;
+  font: 8pt Verdana, Arial;
+  margin-left: 55%;
+  background-color: F6F6F6;
+}
+
+P.sgts
+{ text-align: justify;
+  color: black;
+  font: bold 10pt Verdana, Arial;
+  margin-left: 5%;
+  text-indent: 5mm;
+  background-color: FFE0FF;
+}
+
+/*
+TD   {
+  text-align: left;
+  color: navy;
+  background-color: f0f0f0;
+  font: bold 11pt Verdana, Arial;
+  }
+*/
+
+TD   {
+  background-color: f0f0f0;
+  }
+
+td.tytul
+{
+  text-align: center;
+  color: navy;
+  background-color: e0e0e0;
+  font: bold 13pt Verdana, Arial;
+}
+
+td.literki
+{
+  text-align: justify;
+  color: black;
+  margin-left: 5%;
+  text-indent: 5mm;
+  background-color: f0f0f0;
+  font: 7pt Verdana, Arial;
+}
+
+
+td.tabc
+{
+  text-align: center;
+  color: black;
+  background-color: f0f0f0;
+  font: 10pt Verdana, Arial;
+}
+
+td.tabl
+{
+  text-align: justify;
+  color: black;
+  background-color: f0f0f0;
+  font: 10pt Verdana, Arial;
+}
+
+td.foto
+{
+  text-align: center;
+  background-color: f0f0f0;
+}
+
+.cart_cell
+{
+ background: #FBDEA4;
+  color: navy;
+  font: 9pt Arial;
+}
