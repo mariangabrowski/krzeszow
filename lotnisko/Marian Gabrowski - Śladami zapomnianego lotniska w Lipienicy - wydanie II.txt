@@ -1,97 +1,7 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML><HEAD><TITLE>Śladami zapomnianego lotniska w Lipienicy</TITLE>
-<META http-equiv=content-type content="text/html; charset=utf-8">
-<META http-equiv=content-language content=pl>
-<META content="MSHTML 6.00.2600.0" name=GENERATOR>
-<META content=pl name=language>
-<META content="Marian Gabrowski" name=author>
-<META content="" name=description>
-<META content="" name=keywords>
-<META content=index,follow name=robots><LINK 
-href="style.css" type=text/css rel=stylesheet>
-<!-- Start ga -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-63740180-1', 'auto');
-  ga('send', 'pageview');
-</script>
-<!-- End ga -->
-</HEAD>
-<BODY text=#000000 bgColor=#ffffff><FONT face=arial>
-<P class=tytul>Śladami zapomnianego lotniska w Lipienicy
-<HR>
-
-<DIV class=marginesy>
-<br>
-<p class="txt"> 
-W 2018 roku podjąłem się próby opracowania historii miejscowości Lipienica. W trakcie zbierania materiałów natrafiłem na całkowicie nieznany mi wątek budowanego tutaj lotniska polowego. Moje próby zlokalizowania tegoż obiektu opisałem w publikacji <i>„Śladami zapomnianego lotniska w Lipienicy”</i>.
-</p>
-
-<p class="txt"> 
-<center>
-<a href="lotnisko/Marian Gabrowski - Śladami zapomnianego lotniska w Lipienicy - wydanie II.pdf" target="noweOkno" >Marian Gabrowski - Śladami zapomnianego lotniska w Lipienicy - wydanie II.pdf</a>
-</center>
-</p>
-
-<center>
-<A href="lotnisko/Śladami zapomnianego lotniska w Lipienicy okładka_d.jpg"><IMG src="lotnisko/Śladami zapomnianego lotniska w Lipienicy okładka_m.jpg" border=0></A>
-</center>
-
-<hr>
-
-<p class="txt"> 
-Gdyby ktoś z osób odwiedzających moją stronę www przeczytał powyższe opracowanie i w trakcie lektury dostrzegł jakieś błędy, to wdzięczny byłbym za ewentualne uwagi, tak abym mógł wspomnieć o nich w poniższych przypisach.
-</p>
-
-<p class="txt"> 
-<b>Uwagi do zawartości:<b>
-</p>
-
-<p class="txt"> 
-1. W swoim opracowaniu wspominam o lubawskiej fabryce samolotów, natomiast na stronie 146 zastanawiam się, czy widoczna na ilustracji 70 półokrągła ściana szczytowa jest pozostałością po lotniczej hali fabrycznej. Wydaje się, że założenie to jest słuszne, gdyż właśnie taką lokalizację fabryki samolotów potwierdza jeden ze starych planów. Otóż ósmy tom <i>„Słownika geografii turystycznej Sudetów”</i> w haśle <i>„Lubawka”</i> przedstawia na 208 stronie <i>„Plan okolic Lubawki ze Świętą Górą”</i>, pochodzący z przewodnika W. Patschovskiego; prawdopodobnie mowa tu o wydanej w 1925 roku książce <i>„Führer durch Liebau i. Schl. und das Umgebung”</i> (pol. <i>„przewodnik po Lubawce na Śląsku i okolicach”</i>). Wprawdzie nie znajdziemy tutaj lotniska, jednakże przy jednym z budynków przy dzisiejszej ul. Mickiewicza znajduje się ledwo co czytelny napis <i>„Flugzeugbauhalle”</i>, co na język polski należałoby przetłumaczyć jako <i>„hala produkcyjna samolotów”</i>. Lokalizacja <i>„Flugzeugbauhalle”</i> wydaje się być taka sama jak lokalizacja budowli przedstawionej na ilustracji 70 mojej publikacji.
-</p>
-<center>
-<A href="lotnisko/Flugzeugbauhalle_d.jpg"><IMG src="lotnisko/Flugzeugbauhalle_m.jpg" border=0></A>
-</center>
-
-
-<br><br>
-<p class="txt"> 
-2. Opisywane w moim opracowaniu lotnisko było o tyle specyficzne, że jego pas startowy wykonywany był poprzez utwardzenie powierzchni pól uprawnych za pomocą ubijanego walcem parowym gruzu kamiennego. Wydaje się jednak, że jest to rozwiązanie dość dziwne jak na płytę lotniska, gdyż drobne kamienie byłyby zabójcze dla silników samolotów. Czyżby w ostatnich miesiącach wojny Niemcy mogli zdecydować się na tak nieprawdopodobne działanie? Jednak być może istnieje wytłumaczenie tak nieracjonalnego działania: otóż warstwa kamienia na polach uprawnych wcale nie musiała tworzyć płyty lotniska, lecz mogła być podbudową pod docelową nawierzchnię! W lipcu 2019 roku Romuald Owczarek opublikował w miesięczniku <i>„Odkrywca”</i> artykuł <i>„Silberbauprogramm”</i>, w którego podsumowaniu padają następujące stwierdzenia <i>„»Program Srebrny«, »Srebrne lotniska« – to bardzo rzadko pojawiające się terminy związane z Luftwaffe. Zarówno lokalizacja »Srebrnych lotnisk«, jak i wytyczne »Srebrnego programu« wciąż się zmieniały. Na początku dotyczyły pierwszego na świecie myśliwca o napędzie rakietowym Me 163 B, we wrześniu 1944 roku wdrożono »Ausbauprogramm für Me 262 i Ar 234«. W tym programie znalazły się również dwa śląskie lotniska w Kamieniu Śląskim i Zendku. Ofensywa Armii Czerwonej w styczniu 1945 roku pokrzyżowała wszelkie plany adaptacji tych lotnisk pod potrzeby Me 262 (były tu testowane tylko Me 163). W ich zastępstwie szef budownictwa Luftwaffe zarządził budowę kilku lotnisk w rejonie Saaz (dziś czeskiego Žatec, na płn. od Pragi), które też nie zostały wybudowane. Same lotniska dla Me 262 i Ar 234 budowane lub adaptowane były głównie w celu wydłużenia pasa startowego do minimum 1700 m i zmiany nawierzchni z betonowej na nawierzchnie z dywanikiem bitumicznym wzmocnionym kruszywem bazaltowym (betonowe pasy zbyt szybko się kruszyły pod wpływem gorących strumieni gazów wylotowych samolotu odrzutowego). Program miał najwyższy priorytet budowlany. Dodatkowo od kwietnia 1945 roku przeszedł pod osobisty nadzór gen. Hansa Kammlera”</i>. Pojawia się tutaj stwierdzenie, że lotniska budowane w ramach programu <i>„Silberbauprogramm”</i> docelowo miały mieć nawierzchnię bitumiczną. Wówczas to opisywane przeze mnie prace związane z budową lotniska w Lipienicy można potraktować jako wstępne przygotowanie terenu, mające na celu przygotowanie podbudowy pod dywanik bitumiczny, który przecież musiałby być położony na odpowiednio wyrównanym i utwardzonym podłożu.
-</p>
-
-
-
-
-
-
-
-<br>
-<center><font size=2><b>
-<a href="index.html" OnMouseOut="window.status='';" OnMouseOver="window.status='Powrót do strony głównej'; return true;">Wróć</a>
-</font></b></center>
-<br>
-
-
-<HR>
-
- <BR>
-
-</DIV>
-<IMG src="foto/email.gif" border=0>
-
-
-<br><br><br>
-
-
-<TABLE cellspacing=5 cellpadding=5> 
-<TR>
-<TD class="literki" valign="top">Z jakiegoś powodu wyszukiwarka Google nie chce zaindeksować zawartości pliku pdf zawierającego tekst mojej publikacji. Dlatego też zamieszczam zawartośc publikacji <a href="lotnisko/Marian Gabrowski - Śladami zapomnianego lotniska w Lipienicy - wydanie II.txt" target="noweOknoTxt" >Śladami zapomnianego lotniska w Lipienicy</a> również w formie tekstowej.<br><br>
-
+=======================================================================================
+zawartość publikacji "MARIAN GABROWSKI - ŚLADAMI ZAPOMNIANEGO LOTNISKA W LIPIENICY" w postaci pliku pdf 
+dostępna jest na stronie: http://marian.gabrowski.eu/lotnisko.html
+=======================================================================================
 
 MARIAN GABROWSKI
 
@@ -1373,11 +1283,3 @@ Bibliografia
 111 W grudniu 1985 roku, w wyniku uszkodzenia czujnika zawartości metanu oraz czujnika ciągłości pracy wentylatora lutniowego, doszło w pobliskiej kopalni „Wałbrzych” do wybuchu metanu na głębokości 671 metrów pod ziemią. Jak informuje Wikipedia: „Po kilkunastotygodniowym śledztwie ustalono, że wybuch metanu był spowodowany przez iskrę z pantografu elektrowozu, a ponadto wyrobisko, w którym doszło do eksplozji, w wyniku rażących zaniedbań kierownictwa kopalni nie posiadało dobrej wentylacji”. W katastrofie tej zginęło 18 górników, spośród znajdujących się w epicentrum wybuchu przeżył tylko jeden. Kilka lat temu miałem okazję go poznać. Nasze drogi się skrzyżowały, kiedy ten jedyny ocalały cierpliwie dopracowywał, jako maszynista podziemnej kolejki elektrycznej, ostatnie lata przed emeryturą.
 
 112 http://www.czajski.neostrada.pl/historia.html – dostęp marzec 2018.
-
-</TD>
-</TR> 
-</TABLE> 
-
-
-
-</BODY></HTML>
