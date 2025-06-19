@@ -57,21 +57,38 @@ Dlaczego powstała ta strona ? <hr width=100% size=2 align=left>
 
 <script language="JavaScript" type="text/javascript">
 <!--
-document.write("Adres bieżącego dokumentu: &nbsp&nbsp"+document.location+"<br>");
-document.write("Referrer: &nbsp&nbsp"+document.referrer+"<br>");
-document.write("Host: &nbsp&nbsp"+window.location.host+"<br>");
-document.write("Hostname: &nbsp&nbsp"+window.location.hostname+"<br>");
-document.write("Href: &nbsp&nbsp"+window.location.href+"<br>");
-document.write("Pathname: &nbsp&nbsp"+window.location.pathname+"<br>");
-document.write("Port: &nbsp&nbsp"+window.location.port+"<br>");
-document.write("Protocol: &nbsp&nbsp"+window.location.protocol+"<br>");
-document.write("Nazwa bieżącej przeglądarki: "+navigator.appName+"<br>");
-document.write("Numer wersji przeglądarki: "+navigator.appVersion+"<br>");
-document.write("Nazwa kodowa przeglądarki: "+navigator.appCodeName+"<br>");
-document.write("Rozdzielczość ekranu: "+screen.width+"x"+screen.height+"<br>");
-document.write("Ostatnia aktualizacja tej strony: "+document.lastModified+"<br>");
-document.write("Aktualna data: "+Date()+"<br>");
+document.write("Adres dokumentu: &nbsp;&nbsp;" + document.location + "<br>");
+document.write("Referrer: &nbsp;&nbsp;" + document.referrer + "<br>");
+document.write("Host: &nbsp;&nbsp;" + window.location.host + "<br>");
+document.write("Hostname: &nbsp;&nbsp;" + window.location.hostname + "<br>");
+document.write("Origin: &nbsp;&nbsp;" + window.location.origin + "<br>");
+document.write("Pathname: &nbsp;&nbsp;" + window.location.pathname + "<br>");
+document.write("Port: &nbsp;&nbsp;" + (window.location.port || "(domyślny)") + "<br>");
+document.write("Protocol: &nbsp;&nbsp;" + window.location.protocol + "<br>");
+document.write("Tytuł dokumentu: &nbsp;&nbsp;" + document.title + "<br>");
+document.write("Ostatnia modyfikacja: &nbsp;&nbsp;" + document.lastModified + "<br>");
+document.write("Status dokumentu: &nbsp;&nbsp;" + document.readyState + "<br><br>");
 
+document.write("Nazwa przeglądarki: &nbsp;&nbsp;" + navigator.appName + "<br>");
+document.write("Wersja przeglądarki: &nbsp;&nbsp;" + navigator.appVersion + "<br>");
+document.write("User-Agent: &nbsp;&nbsp;" + navigator.userAgent + "<br>");
+document.write("Kodowa nazwa przeglądarki: &nbsp;&nbsp;" + navigator.appCodeName + "<br>");
+document.write("Platforma: &nbsp;&nbsp;" + navigator.platform + "<br>");
+document.write("Język: &nbsp;&nbsp;" + navigator.language + "<br>");
+document.write("Preferowane języki: &nbsp;&nbsp;" + navigator.languages.join(', ') + "<br>");
+document.write("Ciasteczka włączone: &nbsp;&nbsp;" + (navigator.cookieEnabled ? "Tak" : "Nie") + "<br>");
+document.write("Liczba CPU logicznych: &nbsp;&nbsp;" + (navigator.hardwareConcurrency || "(brak danych)") + "<br>");
+document.write("RAM (szacowane): &nbsp;&nbsp;" + (navigator.deviceMemory ? navigator.deviceMemory + " GB" : "(brak danych)") + "<br>");
+document.write("Online: &nbsp;&nbsp;" + (navigator.onLine ? "Tak" : "Nie") + "<br><br>");
+
+document.write("Rozdzielczość ekranu (CSS px): &nbsp;&nbsp;" + screen.width + " x " + screen.height + "<br>");
+document.write("Dostępna rozdzielczość (CSS px): &nbsp;&nbsp;" + screen.availWidth + " x " + screen.availHeight + "<br>");
+document.write("Rozmiar okna przeglądarki: &nbsp;&nbsp;" + window.innerWidth + " x " + window.innerHeight + " px<br>");
+document.write("Skalowanie (devicePixelRatio): &nbsp;&nbsp;" + window.devicePixelRatio + "<br>");
+document.write("Fizyczna rozdzielczość ekranu: &nbsp;&nbsp;" + (screen.width * window.devicePixelRatio) + " x " + (screen.height * window.devicePixelRatio) + " px<br>");
+document.write("Obsługa dotyku: &nbsp;&nbsp;" + (navigator.maxTouchPoints > 0 ? "Tak" : "Nie") + "<br><br>");
+
+document.write("Aktualna data: &nbsp;&nbsp;" + new Date() + "<br>");
 
 // -->
 </script>
